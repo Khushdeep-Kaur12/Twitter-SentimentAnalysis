@@ -1,20 +1,9 @@
+# Twitter Sentiment Analysis: Russia-Ukraine War
 
-Project Topic - Ukraine Sentimental Analysis Using Python 
+Analyzed tweets to gauge public sentiment as a group undergraduate project.
 
-1. Data Collection - Collected Twitter Data from Kaggle as a CSV file 
-
-2. Pre Processing - Pre- Processing is a Method of Cleaning The Dataset Like (Removing Noisy Data, Null Vallues, etc....) 
-     Methods used 
-     --Clean_tweet
-     --Analyze_sentiment
-
-3. NLTK concept 
-     --WordCloud
-
-4. Visualization - Classifying the Word Length Count and Displaying in Histogram chart. 
-
-
-
-
-
-      
+## Overview
+- **Data**: 10,000+ tweets.
+- **Team Context**: Undergraduate final project with peers.
+- **My Role**: Built the NLP sentiment model using NLTK and created the sentiment distribution plot.
+- **Tools**: Python, NLTK, Matplotlib.
